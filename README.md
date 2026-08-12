@@ -386,7 +386,6 @@ San Jose State University, DATA 298B, 2026.
 
 <div align="center">
 
-**Built by [Smit Ardeshana](https://www.linkedin.com/in/smit-ardeshana-956512220/) · [GitHub](https://github.com/smit-6690)**
 
 *If this project helped you, please consider giving it a ⭐*
 
